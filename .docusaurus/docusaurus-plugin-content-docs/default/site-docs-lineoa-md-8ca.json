@@ -1,0 +1,16 @@
+{
+  "id": "lineoa",
+  "title": "lineoa",
+  "description": "LINE Official Account (LINE OA)",
+  "source": "@site/docs/lineoa.md",
+  "sourceDirName": ".",
+  "slug": "/lineoa",
+  "permalink": "/docsv1/docs/lineoa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/lineoa.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar"
+}
